@@ -14,7 +14,7 @@ PLAN DE PRUEBAS:
 1.ESTRATEGIA:
   -Realizar inicialmente pruebas exploratorias.                                                                                         
   -Realizar pruebas de caja negra para componenetes existentes.                                                                         
-  -Realizar pruebas humo para componentes nuevos.                                                                                       
+  -Realizar pruebas humo para componentes nuevos.                                                                                         -Realizar pruebas de integración incremental a medida que alguna funcionalidad se añadida.
   -A medida que los desarrolladores realicen HU ir diseñando cada escenario.                                                           
   -Estar informados del progreso de los desarrolladores.                                                                                 
 2.ALCANCE:                                                                                                                             
