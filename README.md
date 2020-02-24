@@ -18,7 +18,7 @@ PLAN DE PRUEBAS:
   -A medida que los desarrolladores realicen HU ir diseñando cada escenario.                                                           
   -Estar informados del progreso de los desarrolladores.                                                                                 
 2.ALCANCE:                                                                                                                             
--Probar principalmente la funcionalidad y la usabilidad.                                                                              
+-Probar principalmente la funcionalidad del sistema.                                                                                     
 3.RIESGOS:                                                                                                                            
   -El avance de los desarrolladores no sea el planeado.                                                                              
   -Cambio de las HU.                                                                                                                
