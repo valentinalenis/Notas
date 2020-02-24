@@ -10,7 +10,7 @@ Tienen lugar entre las pruebas de integración y las pruebas de regresión. Y es
 Acceptance testing
 Las pruebas de aceptación son pruebas formales, ejecutadas para verificar si un sistema satisface sus requerimientos de negocio.
 
-PLAN DE PRUEBAS:
+PLAN DE PRUEBAS:                                                                                                                            
 1.ESTRATEGIA:
   -Realizar inicialmente pruebas exploratorias.
   -Realizar pruebas de caja negra para componenetes existentes.
