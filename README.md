@@ -12,14 +12,14 @@ Las pruebas de aceptación son pruebas formales, ejecutadas para verificar si un
 
 PLAN DE PRUEBAS:                                                                                                                            
 1.ESTRATEGIA:
-  -Realizar inicialmente pruebas exploratorias.
-  -Realizar pruebas de caja negra para componenetes existentes.
-  -Realizar pruebas humo para componentes nuevos.
-  -A medida que los desarrolladores entreguen HU ir diseñando cada escenario.
-  -Estar informados del progreso de los desarrolladores
-2.ALCANCE:
--Probar principalmente la funcionalidad y la usabilidad.
-3.RIESGOS:
-  -El avance de los desarrolladores no sea el planeado.
-  -Cambio de las HU.
+  -Realizar inicialmente pruebas exploratorias.                                                                                         
+  -Realizar pruebas de caja negra para componenetes existentes.                                                                         
+  -Realizar pruebas humo para componentes nuevos.                                                                                       
+  -A medida que los desarrolladores realicen HU ir diseñando cada escenario.                                                           
+  -Estar informados del progreso de los desarrolladores.                                                                                 
+2.ALCANCE:                                                                                                                             
+-Probar principalmente la funcionalidad y la usabilidad.                                                                              
+3.RIESGOS:                                                                                                                            
+  -El avance de los desarrolladores no sea el planeado.                                                                              
+  -Cambio de las HU.                                                                                                                
   
